@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FD8DCA11-6437-455F-9081-4AE1FE771D2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.BatmobileVoiceControl PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BatmobileVoiceControl/MainActivity.cs">
+    <Files>
+      <File FileName="BatmobileVoiceControl/MainActivity.cs" Line="216" Column="60" />
+      <File FileName="BatmobileVoiceControl/SQSMessage.cs" Line="5" Column="2" />
+      <File FileName="BatmobileVoiceControl/EV3Command.cs" Line="3" Column="2" />
+      <File FileName="BatmobileVoiceControl/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="BatmobileVoiceControl/Properties/AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="BatmobileVoiceControl/Resources/values/Strings.xml" Line="3" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BatmobileVoiceControl" expanded="True">
+            <Node name="BatmobileVoiceControl" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

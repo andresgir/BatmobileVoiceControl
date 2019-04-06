@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Allow Alexa to control Batmobile</string>
+	<string name="app_name">Batmobile Voice Control</string>
+</resources>
