@@ -54,8 +54,8 @@ namespace BatmobileVoiceControl
 		#region CONSTANTS
 
 		private const int TIMEOUT_IN_MS = 125;
-		private const string ACCESS_KEY_ENV_NAME = "AKIAIXAMLQV6L4AWHKVQ";
-		private const string SECRET_KEY_ENV_NAME = "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";
+		private const string ACCESS_KEY_ENV_NAME = "";
+		private const string SECRET_KEY_ENV_NAME = "";
 		private const string EV3_PORT_KEY = "Ev3Port";
 		private const string AWS_SQS_ADDRESS_KEY = "AwsSqsAddress";
 
