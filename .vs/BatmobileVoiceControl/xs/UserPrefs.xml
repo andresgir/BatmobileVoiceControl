@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{FD8DCA11-6437-455F-9081-4AE1FE771D2B}|Default">
   <MonoDevelop.Ide.ItemProperties.BatmobileVoiceControl PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BatmobileVoiceControl/SQSMessage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BatmobileVoiceControl/MainActivity.cs">
     <Files>
-      <File FileName="BatmobileVoiceControl/MainActivity.cs" Line="63" Column="9" />
-      <File FileName="BatmobileVoiceControl/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="BatmobileVoiceControl/MainActivity.cs" Line="60" Column="43" />
       <File FileName="BatmobileVoiceControl/Properties/AndroidManifest.xml" Line="7" Column="12" />
       <File FileName="BatmobileVoiceControl/SQSMessage.cs" Line="5" Column="2" />
     </Files>
@@ -16,7 +15,7 @@
               <Node name="Resources" expanded="True">
                 <Node name="values" expanded="True" />
               </Node>
-              <Node name="SQSMessage.cs" selected="True" />
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>

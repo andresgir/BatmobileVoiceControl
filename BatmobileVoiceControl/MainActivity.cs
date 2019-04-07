@@ -473,7 +473,7 @@ namespace BatmobileVoiceControl
 		{
 
 			ReceiveMessageRequest request = new ReceiveMessageRequest();
-			request.QueueUrl = "https://sqs.us-east-1.amazonaws.com/617887864731/ev3batmobilecommand";
+			request.QueueUrl = "";
 
 			while (true)
 			{
@@ -525,10 +525,10 @@ namespace BatmobileVoiceControl
 		{
 			//var appSettings = ConfigurationManager.AppSettings;
 			//_ev3Port = appSettings[EV3_PORT_KEY] ?? "/dev/tty.EV3-SerialPort";
-			_awsSqsAddress = "https://sqs.us-east-1.amazonaws.com/617887864731/ev3batmobilecommand";
+			_awsSqsAddress = "";
 
-			string accessKey = "AKIAIXAMLQV6L4AWHKVQ";
-			string secretKey = "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";
+			string accessKey = "";
+			string secretKey = "";
 
 			RegionEndpoint endpoint = RegionEndpoint.USEast1;
 			AWSCredentials credentials = new BasicAWSCredentials(accessKey, secretKey);
